@@ -2,8 +2,6 @@ I am a PhD student at the University of Colorado at Boulder, working in the Livi
 
 My general research interests are in data science and interdisciplinary applications of machine learning and deep learning. I also have interests in science communication and the intersection of science into public policy and education.
 
-One of my best experiences since moving to Colorado was working with Senators Chris Hansen (D-Denver) and Cleave Simpson (R-Alamosa) in the [Colorado Science and Engineering Policy Fellowship](https://csepf.org/) in Summer 2023, where I worked on drafting a bill related to K-12 climate change education. Parts of my draft were adapted into Bill SB24-014 - Seal of Climate Literacy Diploma Endorsement from the 2024 Legislative Session.
-
 ### Socials
 - [LinkedIn](https://www.linkedin.com/in/michelleramsahoye/)
 - [Bluesky](https://bsky.app/profile/lusnu.bsky.social)
