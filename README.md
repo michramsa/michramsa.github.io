@@ -8,6 +8,6 @@ One of my best experiences since moving to Colorado was working with Senators Ch
 
 ### Socials
 - [LinkedIn](https://www.linkedin.com/in/michelleramsahoye/)
-- [Bluesky]([https://pages.github.com/](https://bsky.app/profile/lusnu.bsky.social)).
+- [Bluesky](https://bsky.app/profile/lusnu.bsky.social)
 - [Google Scholar](https://scholar.google.com/citations?user=pHODSSAAAAAJ&hl=en)
   
