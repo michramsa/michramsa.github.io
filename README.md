@@ -15,6 +15,10 @@ Research Projects:
 ![Michelle with HAFN, Sept 2025](images/hafn2025.jpg)
 Michelle with HAFN, Sept 2025 - [More information about Harvest of All First Nations](https://hafnco.org/)
 
+### Colorado Science and Engineering Policy Fellowship 2023
+![Michelle with CSEPF, Summer 2023](images/csepf_2023.png)
+Michelle with CSEPF, Summer 2023 - [More information about CSEPF](https://csepf.org/)
+
 ### Socials
 - [ATLAS Lab Page with my email](https://www.colorado.edu/atlas/michelle-ramsahoye)
 - [LinkedIn](https://www.linkedin.com/in/michelleramsahoye/)
