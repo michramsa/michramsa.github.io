@@ -7,7 +7,7 @@ Before coming to Colorado, I completed my B.S. in Mathematics at the University 
 I've had the pleasure of **working with the Colorado State Government**, being a [**2024-2025 Boulder Black Blossom**](https://www.colorado.edu/support/gar/current-graduate-students/boulder-black-blossoms#accordion-1131676925-1), and volunteering to review travel grants for [**SACNAS**] (https://www.sacnas.org/). 
 
 Research Projects:
-- Working with rare and novel viral proteins: "Characterizing network analysis architectures for Anti-CRISPR proteins - structural properties and implications as a data structure" - Michelle Ramsahoye and Mirela Alistar (in preparation)
+- Working with rare and novel viral proteins: "Revisiting graph-based approaches for small protein analysis: Insights from anti-CRISPR protein networks" - Michelle Ramsahoye and Mirela Alistar (submitted)
 - Online discourse about childhood experiences of the /r Guyana subreddit (started Oct 2025)
 - SemEval 2025 Task 10: Psycholinguistic Conspiracy Marker Extraction and Detection (started Oct 2025)
 
