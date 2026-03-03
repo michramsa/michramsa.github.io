@@ -1,4 +1,4 @@
-I am a PhD student at the University of Colorado at Boulder, working in the Living Matter Lab of Dr. Mirela Alistar in the ATLAS Institute. My work is interdisciplinary but the overall theme is **methodology development and validation when working with scarce data**. 
+I am a 4th year PhD student at the University of Colorado at Boulder, working in the Living Matter Lab of Dr. Mirela Alistar in the ATLAS Institute. My work is interdisciplinary but the overall theme is **methodology development and validation when working with scarce data**. My research often includes **data transformations** with **a focus on data centric AI and robustness**.
 
 My research asks the question of **"When we want to learn about something that only has scarce data, how can we work with what we have to make something new?"**.
 
