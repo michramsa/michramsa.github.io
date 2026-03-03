@@ -9,6 +9,7 @@ I've had the pleasure of **working with the Colorado State Government**, being a
 Research Projects:
 - Working with rare and novel viral proteins: "Revisiting graph-based approaches for small protein analysis: Insights from anti-CRISPR protein networks" - Michelle Ramsahoye and Mirela Alistar (working on revisions)
 - Working with data transformations for latent topic modeling, using political discourse comments from the /r Guyana subreddit (started Oct 2025)
+
 Past Projects:
 - SemEval 2025 Task 10: Psycholinguistic Conspiracy Marker Extraction and Detection (started Oct 2025)
 
