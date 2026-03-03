@@ -4,11 +4,12 @@ My research asks the question of **"When we want to learn about something that o
 
 Before coming to Colorado, I completed my B.S. in Mathematics at the University of Maryland, Baltimore County and my A.S. degrees in Physics and Biology at Harford Community College.
 
-I've had the pleasure of **working with the Colorado State Government**, being a [**2024-2025 Boulder Black Blossom**](https://www.colorado.edu/support/gar/current-graduate-students/boulder-black-blossoms#accordion-1131676925-1), and volunteering to review travel grants for [**SACNAS**] (https://www.sacnas.org/). 
+I've had the pleasure of **working with the Colorado State Government**, being a [**2024-2025 Boulder Black Blossom**](https://www.colorado.edu/support/gar/current-graduate-students/boulder-black-blossoms#accordion-1131676925-1), and volunteering to review travel grants for [**SACNAS**](https://www.sacnas.org/). 
 
 Research Projects:
-- Working with rare and novel viral proteins: "Revisiting graph-based approaches for small protein analysis: Insights from anti-CRISPR protein networks" - Michelle Ramsahoye and Mirela Alistar (submitted)
-- Online discourse about childhood experiences of the /r Guyana subreddit (started Oct 2025)
+- Working with rare and novel viral proteins: "Revisiting graph-based approaches for small protein analysis: Insights from anti-CRISPR protein networks" - Michelle Ramsahoye and Mirela Alistar (working on revisions)
+- Working with data transformations for latent topic modeling, using political discourse comments from the /r Guyana subreddit (started Oct 2025)
+Past Projects:
 - SemEval 2025 Task 10: Psycholinguistic Conspiracy Marker Extraction and Detection (started Oct 2025)
 
 ### Seed Gathering 2025 with Harvest of All First Nations
