@@ -4,7 +4,9 @@ I find the steps of taking data and transforming it into input for a ML/NLP tool
 
 My research asks the question of **"When we want to learn about something that only has scarce data, how can we work with what we have?"**. (It is important to note that I believe sometimes the answer is **"We can't! At least not with a ML/NLP tool."**). My work often skews towards being involved in computational biology, but I don't consider myself tied to any particular field.
 
-Before coming to Colorado, I completed my B.S. in Mathematics at the University of Maryland, Baltimore County and my A.S. degrees in Physics and Biology at Harford Community College. My CV can be found [here](https://www.overleaf.com/read/yfrdqhmttgkm#6d4c94).
+Before coming to Colorado, I completed my B.S. in Mathematics at the University of Maryland, Baltimore County and my A.S. degrees in Physics and Biology at Harford Community College.
+
+<embed src="images/CV_04_08_2026 (1).pdf" type="application/pdf" width="100%" height="800px">
 
 I've had the pleasure of **working with the Colorado State Government**, being a [**2024-2025 Boulder Black Blossom**](https://www.colorado.edu/support/gar/current-graduate-students/boulder-black-blossoms#accordion-1131676925-1), and volunteering to review travel grants for [**SACNAS**](https://www.sacnas.org/). I am also a current member of the CU Boulder Graduate Committee on AI in Research and Education.
 
